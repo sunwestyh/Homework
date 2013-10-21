@@ -1,5 +1,5 @@
 // GrayCode.cpp : Defines the entry point for the console application.
-//
+// It is actually c code
 
 
 #include <conio.h>
